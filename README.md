@@ -1,10 +1,4 @@
-# Labor Economics — PhD Course
-
-## Course Pages
-1. https://github.com/rsaggio87/EIEF_PhD_2026
-
-
-Lecture slides and materials will be posted here as the course progresses.
+# Labor Economics @EIEF, Summer 2026
 
 ## Course Description
 This course introduces students to core theoretical concepts in labor economics and surveys recent empirical work in the field. 
@@ -30,7 +24,9 @@ The course runs over five consecutive days. Each day is divided into 2-hour bloc
 | Fri | 26 Jun | 11:00–13:00 | Firms |
 
 ## Assessment
-Grading is based on a **take-home exam**, distributed at the end of the course (2 July 2026) and due shortly thereafter.
+Grading is assigned as follows:
+*70%:**take-home exam**, which will be distributed on July 2nd 2026.
+*30%:**in class partecipation** asking questions, answering questions, interact with class material, help me making this class as interactive as possible.
 
 ## Course Outline & Readings
 
