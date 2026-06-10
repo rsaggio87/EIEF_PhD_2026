@@ -9,24 +9,25 @@ This course introduces students to core theoretical concepts in labor economics 
 * **Where:** Via Abruzzi, Rome (7 min walk from EIEF, Via Sallustiana)
 
 ## Schedule
-The course runs over five consecutive days. Each day is divided into 2-hour blocks. Topics to be filled in.
+The course runs over five consecutive days. Each day is divided into 2-hour blocks.
 
 | Day | Date | Time (Rome) | Topic |
 |-----|------|-------------|-------|
 | Mon | 22 Jun | 09:00–11:00 | Human Capital  |
 | Mon | 22 Jun | 11:00–13:00 | Human Capital / Self-Selection |
 | Tue | 23 Jun | 09:00–11:00 | Self-Selection  |
-| Tue | 23 Jun | 11:00–13:00 | Wage Inequality||
+| Tue | 23 Jun | 11:00–13:00 | Wage Inequality |
 | Wed | 24 Jun | 09:00–11:00 | Wage Inequality|
 | Thu | 25 Jun | 09:00–11:00 | Unemployment|
-| Thu | 25 Jun | 11:00–13:00 | Minimimum Wage  |
+| Thu | 25 Jun | 11:00–13:00 | Minimum Wage |
 | Fri | 26 Jun | 09:00–11:00 | Monopsony |
 | Fri | 26 Jun | 11:00–13:00 | Firms |
 
 ## Assessment
 Grading is assigned as follows:
-*70%:**take-home exam**, which will be distributed on July 2nd 2026.
-*30%:**in class partecipation** asking questions, answering questions, interact with class material, help me making this class as interactive as possible.
+
+* **70%** — **take-home exam**, which will be distributed on July 2nd 2026.
+* **30%** — **in-class participation**: asking questions, answering questions, interacting with class material, and helping me make this class as interactive as possible.
 
 ## Course Outline & Readings
 
