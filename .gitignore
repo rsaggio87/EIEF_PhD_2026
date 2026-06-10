@@ -1,0 +1,10 @@
+# Build artifacts / auxiliary files
+aux/
+.DS_Store
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.nav
+*.snm
+*.toc
