@@ -13,20 +13,20 @@ The course runs over 4 consecutive days. Each day is divided into 2-hour blocks.
 
 | Day | Date | Time | Topic |
 |-----|------|-------------|-------|
-| Tue | 22 Jun | 09:00–11:00 | Human Capital  
-| Tue | 22 Jun | 11:00–13:00 | Human Capital  
-| Wed | 23 Jun | 09:00–11:00 | Self-Selection  
-| Wed | 23 Jun | 11:00–13:00 | Wage Inequality 
-| Thu | 24 Jun | 09:00–11:00 | Wage Inequality---ps1 is due.
+| Tue | 23 Jun | 09:00–11:00 | Human Capital  
+| Tue | 23 Jun | 11:00–13:00 | Human Capital  
+| Wed | 24 Jun | 09:00–11:00 | Self-Selection  
+| Wed | 24 Jun | 11:00–13:00 | Wage Inequality 
+| Thu | 25 Jun | 09:00–11:00 | Wage Inequality---ps1 is due.
 | Thu | 25 Jun | 11:00–13:00 | Unemployment
-| Fri | 25 Jun | 09:00–11:00 | Minimum Wage 
+| Fri | 26 Jun | 09:00–11:00 | Minimum Wage 
 | Fri | 26 Jun | 11:00–13:00 | Monopsony
 | Fri | 26 Jun | 14:00–16:00 | Firms---ps2 is due  
 
 ## Assessment
 Grading is assigned as follows:
 
-* **50%** — **referee report**, each student will be assigned a paper to referee (randomly); assignements will be available during this week and the report will be due beginning of July.
+* **50%** — **referee report**: each student will be assigned a paper to referee (randomly); assignments will be available during this week and the report will be due at the beginning of July.
 * **25%** — **in-class participation**: asking questions, answering questions, interacting with class material and helping me make this class as interactive as possible.
 * **25%** — **problem sets**: ps1 is already posted.
 
@@ -56,7 +56,7 @@ Grading is assigned as follows:
 		- Heckman, James, and Edward Vytlacil (1998). "Instrumental Variables Methods for the Correlated Random Coefficient Model: Estimating the Rate of Return to Schooling When the Return is Correlated with Schooling." *Journal of Human Resources* 33 (4).
 		- Keane, Michael, and Kenneth Wolpin (1997). "The Career Decisions of Young Men." *Journal of Political Economy* 105 (3).
 		- Mountjoy, Jack, and Brent Hickman (2021). "The Returns to College(s): Relative Value-Added and Match Effects in Higher Education." NBER Working Paper No. 29276.
-		- Oreopolous, Philip (2006). "Estimating Average and Local Average Treatment Effects of Education when Compulsory Schooling Laws Really Matter." *American Economic Review* 96 (1).
+		- Oreopoulos, Philip (2006). "Estimating Average and Local Average Treatment Effects of Education when Compulsory Schooling Laws Really Matter." *American Economic Review* 96 (1).
 		- Tyler, John, Richard Murnane, and John Willett (2000). "Estimating the Labor Market Signaling Value of the GED." *Quarterly Journal of Economics* 115 (2).
 		- Zimmerman, Seth (2014). "The Returns to College Admission for Academically Marginal Students." *Journal of Labor Economics* 32 (4).
 	3. *Signaling vs. productivity*
@@ -65,7 +65,7 @@ Grading is assigned as follows:
 		- Clark, Damon, and Paco Martorell (2014). "The Signaling Value of a High School Diploma." *Journal of Political Economy* 122 (2).
 		- Deming, David J. (2022). "Four Facts about Human Capital." *Journal of Economic Perspectives* 36 (3).
 		- Lang, Kevin, and David Kropp (1986). "Human Capital Versus Sorting: The Effects of Compulsory Attendance Laws." *Quarterly Journal of Economics* 101 (3).
-		- MaCleod, W. Bentley, Evan Riehl, Juan E. Saavedra, and Miguel Urquiola (forthcoming). "The Big Sort: College Reputation and Labor Market Outcomes." *American Economic Journal: Applied Economics*.
+		- MacLeod, W. Bentley, Evan Riehl, Juan E. Saavedra, and Miguel Urquiola (forthcoming). "The Big Sort: College Reputation and Labor Market Outcomes." *American Economic Journal: Applied Economics*.
 		- Spence, Michael (1973). "Job Market Signaling." *Quarterly Journal of Economics* 87 (3).
 		- Stiglitz, Joseph (1975). "The Theory of 'Screening,' Education, and the Distribution of Income." *American Economic Review* 65 (3).
 
@@ -91,7 +91,7 @@ Grading is assigned as follows:
 		- Olsen, Randall (1980). "A Least Squares Correction for Selectivity Bias." *Econometrica* 48.
 		- Vytlacil, Edward (2002). "Independence, Monotonicity, and Latent Index Models: An Equivalence Result." *Econometrica* 70.
 	3. *Self-selection applications*
-		- Abramitzky, Ran, Leah Boustan, and Katherine Ericksson (2012). "Europe's Tired, Poor, Huddled Masses: Self-selection and Economic Outcomes in the Age of Mass Migration." *American Economic Review* 102.
+		- Abramitzky, Ran, Leah Boustan, and Katherine Eriksson (2012). "Europe's Tired, Poor, Huddled Masses: Self-selection and Economic Outcomes in the Age of Mass Migration." *American Economic Review* 102.
 		- Borjas, George (1987). "Self-selection and the Earnings of Immigrants." *American Economic Review* 77.
 		- Chandra, Amitabh and Douglas Staiger (2007). "Productivity Spillovers in Health Care: Evidence from the Treatment of Heart Attacks." *Journal of Political Economy* 115.
 		- Chiquiar, Daniel and Gordon Hanson (2005). "International Migration, Self-selection, and the Distribution of Wages: Evidence from Mexico and the United States." *Journal of Political Economy* 113.
@@ -104,7 +104,7 @@ Grading is assigned as follows:
 		- Willis, Robert and Sherwin Rosen (1979). "Education and Self-selection." *Journal of Political Economy* 87.
 		- Walters, Christopher (forthcoming). "The Demand for Effective Charter Schools." *Journal of Political Economy*.
 
-3. **Labor Demand**
+3. **Labor Demand + Wage Inequality**
 	- Anderson, Richard and John Moroney (1994). "Substitution and Complementarities in CES models." *Southern Economic Journal* 60.
 	- Beaudry, P., D. Green and B. Sand (2018). "In Search of Labor Demand." *American Economic Review*.
 	- Cahuc, P., Carcillo, S., & Zylberberg, A. (2014). *Labor Economics*. MIT Press.
@@ -114,8 +114,6 @@ Grading is assigned as follows:
 	- Ottaviano, G. I., & Peri, G. (2012). "Rethinking the effect of immigration on wages." *Journal of the European Economic Association*, 10(1), 152-197.
 	- Rosen, S. (1983). "A note on aggregation of skills and labor quality." *Journal of Human Resources*, 18(3), 425-431.
 	- Schoefer, Benjamin (2015). "The financial channel of wage rigidity." Diss. Harvard University.
-
-5. **Wage Inequality (The Inequality Wars)**
 	- Autor, D. H., Katz, L. F., & Kearney, M. S. (2008). "Trends in US wage inequality: Revising the revisionists." *Review of Economics and Statistics*, 90(2), 300-323.
 	- Autor, D. H., Katz, L. F., & Krueger, A. B. (1998). "Computing inequality: have computers changed the labor market?" *Quarterly Journal of Economics*, 113(4), 1169-1213.
 	- Berman, E., Bound, J., & Machin, S. (1998). "Implications of skill-biased technological change: international evidence." *Quarterly Journal of Economics*, 113(4), 1245-1279.
@@ -131,7 +129,7 @@ Grading is assigned as follows:
 	- Krusell, P., Ohanian, L. E., Ríos-Rull, J. V., & Violante, G. L. (2000). "Capital-skill complementarity and inequality: A macroeconomic analysis." *Econometrica*, 68(5), 1029-1053.
 	- Haanwinckel, Daniel (2018). "Supply, Demand, Institutions, and Firms: A Theory of Labor Market Sorting and the Wage Distribution."
 
-6. **Unemployment**
+4. **Unemployment**
 	- Burdett, K., & Mortensen, D. T. (1998). "Wage differentials, employer size, and unemployment." *International Economic Review*, 257-273.
 	- Coles, M. G., & Mortensen, D. T. (2016). "Equilibrium labor turnover, firm growth, and unemployment." *Econometrica*, 84(1), 347-363.
 	- Davis, S. J., Faberman, R. J., & Haltiwanger, J. C. (2013). "The establishment-level behavior of vacancies and hiring." *Quarterly Journal of Economics*, 128(2), 581-622.
@@ -164,7 +162,7 @@ Grading is assigned as follows:
 	- Sullivan, Daniel, and Till Von Wachter (2009). "Job displacement and mortality: An analysis using administrative data." *Quarterly Journal of Economics*, 124(3), 1265-1306.
 	- Von Wachter, Till, and Stefan Bender (2006). "In the right place at the wrong time: The role of firms and luck in young workers' careers." *American Economic Review*, 96(5), 1679-1705.
 
-7. **Minimum Wage**
+5. **Minimum Wage**
 	- Brown, C. (1999). "Minimum wages, employment, and the distribution of income." *Handbook of Labor Economics*, 3, 2101-2163.
 	- Card, D., & Krueger, A. B. (1994). "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania." *American Economic Review*, 84, 772-793.
 	- Card, D., & Krueger, A. B. (1995). "Time-series minimum-wage studies: a meta-analysis." *American Economic Review*, 85(2), 238-243.
