@@ -5,29 +5,30 @@ This course introduces students to core theoretical concepts in labor economics 
 
 ## Logistics
 * **Instructor:** Raffaele Saggio (rsaggio@mail.ubc.ca)
-* **When:** 22–26 June 2026
-* **Where:** Via Abruzzi, Rome (7 min walk from EIEF, Via Sallustiana)
+* **When:** 23–26 June 2026
+* **Where:** Via Abruzzi, Rome.
 
 ## Schedule
-The course runs over five consecutive days. Each day is divided into 2-hour blocks.
+The course runs over 4 consecutive days. Each day is divided into 2-hour blocks.
 
 | Day | Date | Time | Topic |
 |-----|------|-------------|-------|
-| Mon | 22 Jun | 09:00–11:00 | Human Capital  |
-| Mon | 22 Jun | 11:00–13:00 | Human Capital  |
-| Tue | 23 Jun | 09:00–11:00 | Self-Selection  |
-| Tue | 23 Jun | 11:00–13:00 | Wage Inequality |
-| Wed | 24 Jun | 09:00–11:00 | Wage Inequality|
-| Thu | 25 Jun | 09:00–11:00 | Unemployment|
-| Thu | 25 Jun | 11:00–13:00 | Minimum Wage |
-| Fri | 26 Jun | 09:00–11:00 | Monopsony |
-| Fri | 26 Jun | 11:00–13:00 | Firms |
+| Tue | 22 Jun | 09:00–11:00 | Human Capital  
+| Tue | 22 Jun | 11:00–13:00 | Human Capital  
+| Wed | 23 Jun | 09:00–11:00 | Self-Selection  
+| Wed | 23 Jun | 11:00–13:00 | Wage Inequality 
+| Thu | 24 Jun | 09:00–11:00 | Wage Inequality---ps1 is due.
+| Thu | 25 Jun | 11:00–13:00 | Unemployment
+| Fri | 25 Jun | 09:00–11:00 | Minimum Wage 
+| Fri | 26 Jun | 11:00–13:00 | Monopsony
+| Fri | 26 Jun | 14:00–16:00 | Firms---ps2 is due  
 
 ## Assessment
 Grading is assigned as follows:
 
-* **70%** — **take-home exam**, which will be distributed on July 2nd 2026.
-* **30%** — **in-class participation**: asking questions, answering questions, interacting with class material, and helping me make this class as interactive as possible.
+* **50%** — **referee report**, each student will be assigned a paper to referee (randomly); assignements will be available during this week and the report will be due beginning of July.
+* **25%** — **in-class participation**: asking questions, answering questions, interacting with class material and helping me make this class as interactive as possible.
+* **25%** — **problem sets**: ps1 is already posted.
 
 ## Course Outline & Readings
 
