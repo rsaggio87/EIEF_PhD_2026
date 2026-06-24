@@ -21,7 +21,7 @@ The course runs over 4 consecutive days. Each day is divided into 2-hour blocks.
 | Thu | 25 Jun | 11:00–13:00 | Unemployment
 | Fri | 26 Jun | 09:00–11:00 | Minimum Wage 
 | Fri | 26 Jun | 11:00–13:00 | Monopsony
-| Fri | 26 Jun | 14:00–16:00 | Firms---ps2 is due  
+| Fri | 26 Jun | 14:00–16:00 | Firms---ps2 will be due on Monday 30th at 9.00 CET
 
 ## Assessment
 Grading is assigned as follows:
@@ -36,7 +36,8 @@ Each student will be randomly assigned **one** of the following papers to refere
 
 | Macro Area | Paper | Author(s) | Link |
 |------------|-------|-----------|------|
-| **Human Capital / Selection** | Community Colleges and Upward Mobility | Jack Mountjoy | [link](https://www.aeaweb.org/articles?id=10.1257/aer.20181756) |
+| **Human Capital / Selection** | Affirmative Action, Mismatch, and Economic Mobility after California's Proposition 209 | Zachary Bleemer | [link](https://academic.oup.com/qje/article/137/1/115/6360982?guestAccessKey=95fdbb6a-a289-4d5e-850f-cc3e162b0426&login=false) |
+| | Community Colleges and Upward Mobility | Jack Mountjoy | [link](https://www.aeaweb.org/articles?id=10.1257/aer.20181756) |
 | | The Demand for Effective Charter Schools | Chris Walters | [link](https://drive.google.com/file/d/18xkGaVda_6PeY21InxXEW2iW6Xjwock4/view) |
 | **Labor Demand / Wage Inequality** | Trade Adjustment: Worker-Level Evidence | David Autor et al. | [link](https://economics.mit.edu/sites/default/files/publications/trade%20adjustment%202014.pdf) |
 | | The Skill Complementarity of Broadband Internet | Mogstad et al. | [link](https://www.dropbox.com/scl/fi/fqtav3fk3nxloup0hag4e/internet_and_productivity_final_QJE_aa.pdf?rlkey=z29s4g3cb15rsefrjczhckr2m&e=1&dl=0) |
@@ -45,7 +46,8 @@ Each student will be randomly assigned **one** of the following papers to refere
 | | Evidence on Job Search Models from a Survey of Unemployed Workers in Germany | DellaVigna et al.| [link](https://drive.google.com/file/d/1rBsIkolZJWHvwexHNudyLvSuDYwSlx0u/view) |
 | **Minimum Wages** | The Effect of Minimum Wages on Low-Wage Jobs | Cengiz et al. | [link](https://academic.oup.com/qje/article-abstract/134/3/1405/5484905?redirectedFrom=fulltext) |
 | | Who's Afraid of the Minimum Wage? Measuring the Impacts on Independent Businesses Using Matched U.S. Tax Returns | Rao & Rinsch | [link](https://drive.google.com/file/d/1_0qhHs0v1rLUvQxKFL1iJTJuIPrlfq9-/view) |
-| **Firms / Monopsony** | Voluntary Minimum Wages: The Local Labor Market Effects of National Retailer Policies | Derenoncourt & Weil | [link](https://www.dropbox.com/scl/fi/k577wgjdzqcs01gi7aulo/Voluntary_Minimum_Wages_Submission_Version.pdf?rlkey=fdjnb0tk2ppoe1tzyilso9fd1&e=1&dl=0) |
+| **Firms / Monopsony** | Flexible Wages, Bargaining, and the Gender Gap | Biasi & Sarsons | [link](https://academic.oup.com/qje/article-abstract/137/1/215/6352976?login=false) |
+| | Voluntary Minimum Wages: The Local Labor Market Effects of National Retailer Policies | Derenoncourt & Weil | [link](https://www.dropbox.com/scl/fi/k577wgjdzqcs01gi7aulo/Voluntary_Minimum_Wages_Submission_Version.pdf?rlkey=fdjnb0tk2ppoe1tzyilso9fd1&e=1&dl=0) |
 | | Collusion Among Employers in India | Garima Sharma | [link](https://garimasharma.com/files/collusion_gs.pdf) |
 | | The Gender Pay Gap: Micro Sources and Macro Consequences | Morchio & Moser | [link](https://static1.squarespace.com/static/560a9916e4b0e4c1ab5747fa/t/69f395b6bba0eb2e766b0681/1777571254811/MM2026.pdf) |
 
