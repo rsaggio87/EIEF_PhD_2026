@@ -21,7 +21,7 @@ The course runs over 4 consecutive days. Each day is divided into 2-hour blocks.
 | Thu | 25 Jun | 11:00–13:00 | Unemployment
 | Fri | 26 Jun | 09:00–11:00 | Minimum Wage 
 | Fri | 26 Jun | 11:00–13:00 | Monopsony
-| Fri | 26 Jun | 14:00–16:00 | Firms---ps2 will be due on Monday 30th at 9.00 CET
+| Fri | 26 Jun | 14:00–16:00 | Firms---ps2 will be due on Tuesday 30th at 9.00 CET
 
 ## Assessment
 Grading is assigned as follows:
